@@ -2,18 +2,18 @@
 
 This is a Java-based Fitness Tracker application developed as part of the **CodeAlpha Internship Program**.
 
-## 📌 Features
+## Features
 ✔ Add fitness activities (type, duration, calories)  
 ✔ View all recorded activities  
 ✔ Delete activities  
 ✔ Stores data in a local SQLite database
 
-## 🛠 Technologies Used
+## Technologies Used
 - Java
 - SQLite (via JDBC)
 - IntelliJ IDEA
 
-## 🚀 How to Run (Step-by-Step)
+## How to Run (Step-by-Step)
 
 1. Clone the repository
 2. Open the project in **IntelliJ IDEA**
